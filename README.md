@@ -10,4 +10,4 @@ Apresentar resultados;
 
 # Links
 - [Introdução ML](http://carlosbaia.com/2016/07/17/introducao-ao-machine-learning/)
-- [Kaggle]([https://example.com](https://www.kaggle.com/))
+- [Kaggle](https://www.kaggle.com/)
