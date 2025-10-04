@@ -1,4 +1,4 @@
-# Machine Learning & Dados
+# Mexendo com Dados e um pouco de ML
 Repositório para os meus projetos de Machine Learning e área de dados no geral.
 
 # Etapas de Machine Learning
